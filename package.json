@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "jquery": "^3.6.1",
     "three": "^0.144.0"
   }
 }
