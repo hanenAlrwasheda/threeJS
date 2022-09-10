@@ -9,7 +9,7 @@ this branch will be used as a template for all coming-exercise-branches
 
 ## libraries to find
 - jquery (script tag)
-- three js (npm package)
+- three js (./libs/three.js)
 
 ## files (in ./src)
 - main.js
