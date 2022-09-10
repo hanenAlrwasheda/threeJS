@@ -1,17 +1,12 @@
-# threeJS
-threeJS exercises
+# Plane in ThreeJS
 
-## about
-this branch will be used as a template for all coming-exercise-branches
+## PlaneGeometry
+the classe name to create a plane-Geometry
+## Constructor 
+PlaneGeometry(width : Float, height : Float, widthSegments : Integer, heightSegments : Integer)
 
-## used references
-- [Learning Three.js- The JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
+width — Width along the X axis. Default is 1.
+height — Height along the Y axis. Default is 1.
+widthSegments — Optional. Default is 1.
+heightSegments — Optional. Default is 1.
 
-## libraries to find
-- jquery (script tag)
-- three js (./libs/three.js)
-
-## files (in ./src)
-- main.js
-- index.html
-- style.css
